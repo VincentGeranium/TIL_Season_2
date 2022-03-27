@@ -10,3 +10,4 @@
 - [220320 - 비동기 처리 알아보기.](https://www.notion.so/morgan-kang/3-4-d1cebfe48a254455b43a032027015f43)
 - [220321 - 네트워크 통신 구현하기.](https://www.notion.so/morgan-kang/3-5-a2f4b78bb21d450eadf540d0f0cf687f)
 - [220322 - 데이터를 화면에 표시하기 - 1.](https://www.notion.so/morgan-kang/3-6-1-ee1e8553dc5a484aae27adf801c57a52)
+- [220327 - 데이터를 화면에 표시하기 - 2.](https://www.notion.so/morgan-kang/3-7-2-c754fa446f6d4252a3997e832ef043ea)
