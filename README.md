@@ -13,3 +13,4 @@
 - [220327 - 데이터를 화면에 표시하기 - 2.](https://www.notion.so/morgan-kang/3-7-2-c754fa446f6d4252a3997e832ef043ea)
 - [220327 - 지하철 도착 정보 앱 아웃트로.](https://www.notion.so/morgan-kang/3-8-49e837900a754eb69a4f63a73239e14d)
 - [220327 - Protocol(1).](https://www.notion.so/morgan-kang/Protocol-1-7a42b9d0648947b7a33a6ba925085961)
+- [220328 - SwiftUI Preview.](https://www.notion.so/morgan-kang/SwiftUI-Previews-5aa43b461afa435ba64c06dbbff13e46)
