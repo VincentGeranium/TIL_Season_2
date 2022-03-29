@@ -15,3 +15,4 @@
 - [220327 - Protocol(1).](https://www.notion.so/morgan-kang/Protocol-1-7a42b9d0648947b7a33a6ba925085961)
 - [220328 - SwiftUI Preview.](https://www.notion.so/morgan-kang/SwiftUI-Previews-5aa43b461afa435ba64c06dbbff13e46)
 - [220328 - 저장 프로퍼티.](https://www.notion.so/morgan-kang/Stored-Property-3eb8bf13ad214b7e84ec86a0f9192ec6)
+- [220329 - lazy stored properties](https://www.notion.so/morgan-kang/Lazy-Stored-Properties-e0d2ab6263b04bc889aced71a9105114)
