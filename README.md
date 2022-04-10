@@ -18,3 +18,4 @@
 - [220329 - lazy stored properties](https://www.notion.so/morgan-kang/Lazy-Stored-Properties-e0d2ab6263b04bc889aced71a9105114)
 - [220330 - 인스타그램 앱 Intro.](https://www.notion.so/morgan-kang/4-1-Intro-305075406e9948be9144ce3df6f0f91a)
 - [220401 - 연산 프로퍼티](https://www.notion.so/morgan-kang/Computed-Property-0ab4bdae9df24c7189ffb86523cf61a4)
+- [220410 - Protocol and Delegate Pattern](https://www.notion.so/morgan-kang/Protocol-and-Delegate-Pattern-4833c85d6ebf43cd97e65f0194db550c)
