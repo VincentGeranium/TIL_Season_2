@@ -22,3 +22,4 @@
 - [220411 - 컴퓨터 구조론 1.0 Intro](https://www.notion.so/morgan-kang/1-0-Intro-966cf99582e24f20b65e6ac6fa645d6a)
 - [220412 - 타입 프로퍼티.](https://www.notion.so/morgan-kang/Type-Property-41099a750ad74674a7863d17139d9476)
 - [220413 - 인스타그램 피드 화면 구현하기.](https://www.notion.so/morgan-kang/4-2-7cd1901ec7e84ee0b4d10f6e13c8b25d)
+- [220415 - 컴퓨터 구조론 1.1 컴퓨터의 기본 구조.](https://www.notion.so/morgan-kang/1-1-3165d3744aaa46f6aeaf44c3dc34bea5)
