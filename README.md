@@ -24,3 +24,4 @@
 - [220413 - 인스타그램 피드 화면 구현하기.](https://www.notion.so/morgan-kang/4-2-7cd1901ec7e84ee0b4d10f6e13c8b25d)
 - [220415 - 컴퓨터 구조론 1.1 컴퓨터의 기본 구조.](https://www.notion.so/morgan-kang/1-1-3165d3744aaa46f6aeaf44c3dc34bea5)
 - [220417 - iOS 15에서 Cell textLable 사용.](https://www.notion.so/morgan-kang/iOS-15-Cell-textLabel-731acc720e5e4662842e1871067cb803)
+- [220418 - 컴퓨터 구조론 1.2 정보의 표현과 저장.](https://www.notion.so/morgan-kang/1-2-e7e73ecaeed148e3b945330751394576)
