@@ -27,3 +27,4 @@
 - [220418 - 컴퓨터 구조론 1.2 정보의 표현과 저장.](https://www.notion.so/morgan-kang/1-2-e7e73ecaeed148e3b945330751394576)
 - [220424 - 컴퓨터 시스템 1.0 Intro.](https://www.notion.so/morgan-kang/1-0-Intro-4b3502020451473cb8481405870b372e)
 - [220424 - 컴퓨터 시스템 1.1 정보는 비트와 컨텍스트로 이루어진다.](https://www.notion.so/morgan-kang/1-1-f5d4b6671404409eb6c4b52271e6e079)
+- [220425 - 컴퓨터 시스템 1.2 프로그램은 다른 프로그램에 의해 다른 형태로 번역된다.](https://www.notion.so/morgan-kang/1-2-ee80e15efcfc4bb396fae2db9beaff12)
