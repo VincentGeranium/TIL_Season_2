@@ -30,3 +30,4 @@
 - [220425 - 컴퓨터 시스템 1.2 프로그램은 다른 프로그램에 의해 다른 형태로 번역된다.](https://www.notion.so/morgan-kang/1-2-ee80e15efcfc4bb396fae2db9beaff12)
 - [220427 - 데이터 중심 애플리케이션 설계 - Intro.](https://www.notion.so/morgan-kang/Intro-c09e6f8c16e5487d9e2ea259fe8f48d6)
 - [220427 - 데이터 중심 애플리케이션 설계 - 데이터 시스템에 대한 생각](https://www.notion.so/morgan-kang/861faa8d6cf14e489d4f67b055ecb8a3)
+- [220427 - struct vs enum의 namespace 비교.](https://www.notion.so/morgan-kang/Struct-vs-Enum-Name-Space-16fc25ef0ed745929e605951e9d1770c)
