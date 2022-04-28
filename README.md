@@ -32,3 +32,4 @@
 - [220427 - 데이터 중심 애플리케이션 설계 - 데이터 시스템에 대한 생각](https://www.notion.so/morgan-kang/861faa8d6cf14e489d4f67b055ecb8a3)
 - [220427 - struct vs enum의 namespace 비교.](https://www.notion.so/morgan-kang/Struct-vs-Enum-Name-Space-16fc25ef0ed745929e605951e9d1770c)
 - [220428 - 데이터 중심 애플리케이션 설계 - 신뢰성.](https://www.notion.so/morgan-kang/1bdd6fbd009e4f23b7d08e98c4991fd1)
+- [220429 - 컴퓨터 시스템 - 1.3 컴파일 시스템이 어떻게 동작하는지 이해하는 것은 중요하다.](https://www.notion.so/morgan-kang/1-3-d2d1746c67274da7aaa2ce986c61c26c)
