@@ -31,3 +31,4 @@
 - [220427 - 데이터 중심 애플리케이션 설계 - Intro.](https://www.notion.so/morgan-kang/Intro-c09e6f8c16e5487d9e2ea259fe8f48d6)
 - [220427 - 데이터 중심 애플리케이션 설계 - 데이터 시스템에 대한 생각](https://www.notion.so/morgan-kang/861faa8d6cf14e489d4f67b055ecb8a3)
 - [220427 - struct vs enum의 namespace 비교.](https://www.notion.so/morgan-kang/Struct-vs-Enum-Name-Space-16fc25ef0ed745929e605951e9d1770c)
+- [220428 - 데이터 중심 애플리케이션 설계 - 신뢰성.](https://www.notion.so/morgan-kang/1bdd6fbd009e4f23b7d08e98c4991fd1)
