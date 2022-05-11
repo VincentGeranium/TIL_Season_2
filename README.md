@@ -35,3 +35,4 @@
 - [220429 - 컴퓨터 시스템 - 1.3 컴파일 시스템이 어떻게 동작하는지 이해하는 것은 중요하다.](https://www.notion.so/morgan-kang/1-3-d2d1746c67274da7aaa2ce986c61c26c)
 - [220430 - Xcode 13 이상에서 Image Literal 사용하기.](https://www.notion.so/morgan-kang/Xcode-13-Image-Literal-aa4d075d092044fb833e20d8efdcdfb2)
 - [220509 - Structure vs Class의 메모리 저장 방식 차이.](https://www.notion.so/morgan-kang/Structure-vs-Class-6ab8a377850a48c3a3de875e5584e46d)
+- [220511 - AVAudioSession.](https://www.notion.so/morgan-kang/AVAudioSession-34658dc53c6c4d059045c50358ca8001)
