@@ -38,3 +38,4 @@
 - [220511 - AVAudioSession.](https://www.notion.so/morgan-kang/AVAudioSession-34658dc53c6c4d059045c50358ca8001)
 - [220513 - Udemy iOS Section.4 - Dice Project Summary](https://www.notion.so/morgan-kang/Section-4-1f6dd0e875a74eaeb43d177406fd0125)
 - [220513 - Udemy iOS Section.5 - Magic 8 Ball Project Summary](https://www.notion.so/morgan-kang/Section-5-0d726e8a62ae4c8db5897ecb02ea8843v)
+- [220513 - Udemy iOS Section.6 - Calculator Project Summary](https://www.notion.so/morgan-kang/Section-6-1488ecca122f4da89fbd97032edd08db)
