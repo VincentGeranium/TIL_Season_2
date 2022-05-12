@@ -36,4 +36,5 @@
 - [220430 - Xcode 13 이상에서 Image Literal 사용하기.](https://www.notion.so/morgan-kang/Xcode-13-Image-Literal-aa4d075d092044fb833e20d8efdcdfb2)
 - [220509 - Structure vs Class의 메모리 저장 방식 차이.](https://www.notion.so/morgan-kang/Structure-vs-Class-6ab8a377850a48c3a3de875e5584e46d)
 - [220511 - AVAudioSession.](https://www.notion.so/morgan-kang/AVAudioSession-34658dc53c6c4d059045c50358ca8001)
-- [220513 - Section.4 - Dice Project Summary](https://www.notion.so/morgan-kang/Section-4-1f6dd0e875a74eaeb43d177406fd0125)
+- [220513 - Udemy iOS Section.4 - Dice Project Summary](https://www.notion.so/morgan-kang/Section-4-1f6dd0e875a74eaeb43d177406fd0125)
+- [220513 - Udemy iOS Section.5 - Magic 8 Ball Project Summary](https://www.notion.so/morgan-kang/Section-5-0d726e8a62ae4c8db5897ecb02ea8843v)
