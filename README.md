@@ -40,3 +40,4 @@
 - [220513 - Udemy iOS Section.5 - Magic 8 Ball Project Summary](https://www.notion.so/morgan-kang/Section-5-0d726e8a62ae4c8db5897ecb02ea8843v)
 - [220513 - Udemy iOS Section.6 - Calculator Project Summary](https://www.notion.so/morgan-kang/Section-6-1488ecca122f4da89fbd97032edd08db)
 - [220513 - Udemy iOS Section.7 - Xylophone Project Summary](https://www.notion.so/morgan-kang/Section-7-5bf3b75857c0436094802fe869721afd)
+- [220514 - Udemy iOS Section.11 - Tipsy Project Summary](https://www.notion.so/morgan-kang/Section-11-ae4a3e8cfcc5436fabe4830530609410)
