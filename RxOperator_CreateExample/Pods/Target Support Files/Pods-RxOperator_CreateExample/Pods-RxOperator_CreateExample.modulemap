@@ -1,0 +1,6 @@
+framework module Pods_RxOperator_CreateExample {
+  umbrella header "Pods-RxOperator_CreateExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
