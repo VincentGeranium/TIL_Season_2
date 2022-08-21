@@ -1,0 +1,6 @@
+framework module Pods_RxExample_PublishSubject {
+  umbrella header "Pods-RxExample_PublishSubject-umbrella.h"
+
+  export *
+  module * { export * }
+}
