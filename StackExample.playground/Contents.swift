@@ -24,8 +24,42 @@ public struct Stack<T> {
     public var count: Int {
         return self.elements.count
     }
-    
 }
+
+extension Stack: CustomStringConvertible, CustomDebugStringConvertible {
+    public var description: String {
+        return self.elements.description
+    }
+
+    public var debugDescription: String {
+        return self.elements.debugDescription
+    }
+}
+
+extension Stack: ExpressibleByArrayLiteral {
+    public init(arrayLiteral elements: T...) {
+        self.init()
+        elements.forEach {push(element: $0)}
+    }
+}
+
+public struct ArrayIterator<T>: IteratorProtocol {
+    var currentElement: [T]
+    
+    init(elements: [T]) {
+        self.currentElement = elements
+    }
+    
+    mutating public func next() -> T? {
+        if (!self.currentElement.isEmpty) {
+            return self.currentElement.popLast()
+        }
+        return nil
+    }
+}
+
+
+
 
 var myStack = Stack<Int>()
 
@@ -42,5 +76,6 @@ x = myStack.pop() // x = 44
 x = myStack.pop() // x = 5
 
 x = myStack.pop() // x = nil
+
 
 
