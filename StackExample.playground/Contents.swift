@@ -1,15 +1,20 @@
 import UIKit
 
 public struct Stack<T> {
-    private var elements = [T]()
+    fileprivate var elements = [T]()
     
     public init() {}
     
-    public mutating func pop() -> T? {
-        return self.elements.popLast()
+    public init<S : Sequence>(_ s: S) where S.Iterator.Element == T {
+        self.elements = Array(s.reversed())
     }
     
-    public mutating func push(element: T) {
+    mutating public func pop() -> T? {
+        return self.elements.popLast()
+        
+    }
+    
+    mutating public func push(element: T){
         self.elements.append(element)
     }
     
@@ -43,39 +48,54 @@ extension Stack: ExpressibleByArrayLiteral {
     }
 }
 
-public struct ArrayIterator<T>: IteratorProtocol {
-    var currentElement: [T]
+extension Stack: Sequence {
     
-    init(elements: [T]) {
-        self.currentElement = elements
-    }
-    
-    mutating public func next() -> T? {
-        if (!self.currentElement.isEmpty) {
-            return self.currentElement.popLast()
+    public struct ArrayIterator<T>: IteratorProtocol {
+        var currentElement: [T]
+        
+        init(elements: [T]) {
+            self.currentElement = elements
         }
-        return nil
+        
+        mutating public func next() -> T? {
+            if (!self.currentElement.isEmpty) {
+                return self.currentElement.popLast()
+            }
+            return nil
+        }
     }
+    
+    public func makeIterator() -> ArrayIterator<T> {
+        return ArrayIterator<T>(elements: self.elements)
+    }
+    
 }
 
 
 
 
-var myStack = Stack<Int>()
+//var myStack = Stack<Int>()
+//
+//myStack.push(element: 5) // [5]
+//
+//myStack.push(element: 44) // [5], [44]
+//
+//myStack.push(element: 23) // [5]. [44]. [23]
+//
+//var x = myStack.pop() // x = 23
+//
+//x = myStack.pop() // x = 44
+//
+//x = myStack.pop() // x = 5
+//
+//x = myStack.pop() // x = nil
 
-myStack.push(element: 5) // [5]
+// 배열 리터럴 문법 사용
+var myStack:Stack<Int> = [4,5,6,7]
 
-myStack.push(element: 44) // [5], [44]
+// 미리 정의해둔 초기화 객체를 사용한다
+var myStackFromStack = Stack<Int>(myStack) // [4, 5. 6. 7]
 
-myStack.push(element: 23) // [5]. [44]. [23]
+myStackFromStack.push(element: 55) // [4, 5, 6, 7, 55]
 
-var x = myStack.pop() // x = 23
-
-x = myStack.pop() // x = 44
-
-x = myStack.pop() // x = 5
-
-x = myStack.pop() // x = nil
-
-
-
+myStack.push(element: 70) // [4, 5, 6, 7, 70]
