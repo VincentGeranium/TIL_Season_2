@@ -65,8 +65,8 @@ extension Stack: Sequence {
         }
     }
     
-    public func makeIterator() -> ArrayIterator<T> {
-        return ArrayIterator<T>(elements: self.elements)
+    public func makeIterator() -> AnyIterator<T> {
+        return AnyIterator(IndexingIterator(_elements: self.elements.lazy.reversed()))
     }
     
 }
